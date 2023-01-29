@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   annotations:
-    'jenkins.io/job-full-name': backstage/HelloHapi
+    'jenkins.io/job-full-name': backstage_folder/HelloHapi
   name: "hello_hapi"
   description: github.oraclefoo
 spec:
