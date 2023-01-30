@@ -3,7 +3,7 @@ kind: Component
 metadata:
   annotations:
     'jenkins.io/job-full-name': backstage_folder/HelloHapi
-  name: "hello_hapi"
+  name: "HelloHapi"
   description: github.oraclefoo
 spec:
   type: service
